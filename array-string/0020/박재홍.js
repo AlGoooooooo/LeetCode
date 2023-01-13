@@ -1,3 +1,6 @@
+//Runtime: 74 ms, faster than 71.76% of JavaScript online submissions for Valid Parentheses.
+//Memory Usage: 42.1 MB, less than 81.99% of JavaScript online submissions for Valid Parentheses.
+//시간복잡도 o(n)
 /**
  * @param {string} s
  * @return {boolean}
